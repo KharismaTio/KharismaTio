@@ -2,7 +2,7 @@
 ### ⚔️ *Building with Purpose, Improving with Every Commit.*
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/211/211059.gif">
+  <img src="https://i.pinimg.com/originals/6f/aa/f9/6faaf9d5984ed1d3e9900b129e4ba1df.gif">
 </p>
 
 ---
